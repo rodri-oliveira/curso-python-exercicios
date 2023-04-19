@@ -1,9 +1,6 @@
 import re
 import sys
 nove_digitos = 0
-# entrada_cpf = input('Digite seu cpf: ')
-
-# limpando a string com REGEX 
 
 while True:
     entrada_cpf = input('Digite seu cpf: ')
