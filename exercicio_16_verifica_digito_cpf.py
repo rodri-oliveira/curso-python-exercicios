@@ -44,9 +44,9 @@ while True:
 
         verifica_cpf = nove_digitos + str(resultado_1) + str(resultado_2)
         if verifica_cpf == cpf_limpo:
-            print(f'O CPF {verifica_cpf} é valido: ')
+            print(f'O CPF é valido: ')
         else:
-            print(f'O CPF {verifica_cpf} não é valido: ')
+            print(f'O CPF não é valido: ')
 
 
  
