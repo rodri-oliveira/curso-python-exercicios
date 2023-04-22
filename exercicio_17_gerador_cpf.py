@@ -1,5 +1,4 @@
 import random
-import sys
 
 nove_digitos = ''
 for item in range(9):
