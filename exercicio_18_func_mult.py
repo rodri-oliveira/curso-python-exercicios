@@ -6,3 +6,4 @@ def mult(*args):
 
 result = mult(1,2,3)
 print(result)
+
