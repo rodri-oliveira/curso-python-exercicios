@@ -20,6 +20,7 @@ def buscar_numero_duplicado(lista_de_inteiros):
     for numero in lista_de_inteiros:
         if numero in lista_duplicado:
             primeiro_duplicado = numero
+            break
             
         lista_duplicado.add(numero)
     
